@@ -1,0 +1,7 @@
+branch-defaults:
+  master:
+    environment: dev-env
+global:
+  application_name: demo-nodejs-eb
+  default_platform: node.js
+  default_region: us-west-2
